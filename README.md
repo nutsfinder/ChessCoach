@@ -19,8 +19,3 @@ This Chess AI project is based on [Zeta36/chess-alpha-zero](https://github.com/Z
 - Distributed training for scalable computation.  
 - Compatible with Universal Chess Interface (UCI) chess engines.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nutsfinder/ChessCoach
-   cd chess-ai-recognition
